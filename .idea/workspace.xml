@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f64f006c-be1a-4bb1-80bf-768d270b77de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/bolt_gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/laserRed16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/meteorBrown_big1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/meteorBrown_big2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/meteorBrown_med1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/meteorBrown_med3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/meteorBrown_small1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/meteorBrown_small2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/meteorBrown_tiny1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/missile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/playerShip1_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/regularExplosion00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/regularExplosion01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/regularExplosion02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/regularExplosion03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/regularExplosion04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/regularExplosion05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/regularExplosion06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/regularExplosion07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/regularExplosion08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/shield_gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/sonicExplosion00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/sonicExplosion01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/sonicExplosion02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/sonicExplosion03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/sonicExplosion04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/sonicExplosion05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/sonicExplosion06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/sonicExplosion07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/sonicExplosion08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/assets/starfield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/classification/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/classification/label_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/output.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/output_graph.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/output_labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/retrain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/sounds/expl3.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/sounds/expl6.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/sounds/getready.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/sounds/menu.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/sounds/pew.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/sounds/rocket.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/sounds/rumble1.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/sounds/tgfcoder-FrozenJam-SeamlessLoop.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone/shooting/capstoneUI/spaceshooter/spaceShooter.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/ui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3663">
+              <caret line="40" column="14" selection-start-line="40" selection-end-line="40" selection-end-column="14" />
+              <folding>
+                <element signature="e#617#648#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/object_detection/object_detection_runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="50" column="54" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/object_detection/utils/visualization_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="420" column="62" selection-start-line="420" selection-start-column="62" selection-end-line="420" selection-end-column="62" />
+              <folding>
+                <element signature="e#907#925#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/classification/retrain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8636">
+              <caret line="523" column="74" selection-start-line="523" selection-start-column="74" selection-end-line="523" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pygame.display.set_mode</find>
+      <find>tf</find>
+      <find>detect_objects</find>
+      <find>img_saving_dir</find>
+      <find>visualize_boxes_and_labels_on_image_array</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/capstone/shooting/capstoneUI" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../capstone/capstonenew/backgorundSubtract.py" />
+        <option value="$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/classification/label_image.py" />
+        <option value="$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/ui.py" />
+        <option value="$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/object_detection/object_detection_runner.py" />
+        <option value="$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/object_detection/utils/visualization_utils.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="483" />
+    <option name="y" value="-18" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="asc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="asc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asc" type="462c0819:PsiDirectoryNode" />
+              <item name="capstone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="asc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asc" type="462c0819:PsiDirectoryNode" />
+              <item name="capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="shooting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="asc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asc" type="462c0819:PsiDirectoryNode" />
+              <item name="capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="shooting" type="462c0819:PsiDirectoryNode" />
+              <item name="capstoneUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="asc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asc" type="462c0819:PsiDirectoryNode" />
+              <item name="capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="shooting" type="462c0819:PsiDirectoryNode" />
+              <item name="capstoneUI" type="462c0819:PsiDirectoryNode" />
+              <item name="shootingui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="asc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asc" type="462c0819:PsiDirectoryNode" />
+              <item name="capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="shooting" type="462c0819:PsiDirectoryNode" />
+              <item name="capstoneUI" type="462c0819:PsiDirectoryNode" />
+              <item name="shootingui" type="462c0819:PsiDirectoryNode" />
+              <item name="classification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="asc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asc" type="462c0819:PsiDirectoryNode" />
+              <item name="capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="shooting" type="462c0819:PsiDirectoryNode" />
+              <item name="capstoneUI" type="462c0819:PsiDirectoryNode" />
+              <item name="shootingui" type="462c0819:PsiDirectoryNode" />
+              <item name="objectdetection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="asc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="asc" type="462c0819:PsiDirectoryNode" />
+              <item name="capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="shooting" type="462c0819:PsiDirectoryNode" />
+              <item name="capstoneUI" type="462c0819:PsiDirectoryNode" />
+              <item name="shootingui" type="462c0819:PsiDirectoryNode" />
+              <item name="objectdetection" type="462c0819:PsiDirectoryNode" />
+              <item name="object_detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../capstone/backgorundSubtract.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.object_detection_runner">
+    <configuration name="backgorundSubtract" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="asc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../capstone/capstonenew" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../capstone/capstonenew/backgorundSubtract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="label_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="asc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/classification/label_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="object_detection_runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="asc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/object_detection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/object_detection/object_detection_runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ui" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="asc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jturn\PycharmProjects\capstone\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/ui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.object_detection_runner" />
+        <item itemvalue="Python.label_image" />
+        <item itemvalue="Python.backgorundSubtract" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f64f006c-be1a-4bb1-80bf-768d270b77de" name="Default Changelist" comment="" />
+      <created>1556053877378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556053877378</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24622716" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38475177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.35992908" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24861" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34574467" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.14007092" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/frame162.jpg" />
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/fr pygame.display.set_modeame14.jpg" />
+    <entry file="file://$PROJECT_DIR$/../capstone/capstonenew/backgorundSubtract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../capstone/backgorundSubtract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/output/test_images/frame42.png" />
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/output/test_images/frame51.png" />
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/output/test_images/frame72.png" />
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/classification/label_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="211" selection-start-line="211" selection-end-line="211" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/test_images/frame51.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/test_images/frame72.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/test_images/frame51.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/test_images/frame42.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/test_images/frame42.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved108.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved110.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved92.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved117.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved114.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved113.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved112.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1923837649/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/output/saved10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/test_images/frame72.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/output/saved100.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/output/saved1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/images/saved1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/classification/retrain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8636">
+          <caret line="523" column="74" selection-start-line="523" selection-start-column="74" selection-end-line="523" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3663">
+          <caret line="40" column="14" selection-start-line="40" selection-end-line="40" selection-end-column="14" />
+          <folding>
+            <element signature="e#617#648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/object_detection/object_detection_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="50" column="54" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capstone/shooting/capstoneUI/shootingui/objectdetection/object_detection/utils/visualization_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="420" column="62" selection-start-line="420" selection-start-column="62" selection-end-line="420" selection-end-column="62" />
+          <folding>
+            <element signature="e#907#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
